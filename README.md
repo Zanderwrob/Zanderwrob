@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello there, I'm Zander 👋
+
+I am growing Software Developer that loves solving problems, and creating efficent systems.
 
 <!--
 **Zanderwrob/Zanderwrob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
